@@ -1,0 +1,13 @@
+{
+    "name": "jungleran/drupal-webform",
+    "type": "metapackage",
+    "description": "Webform and related modules",
+    "keywords": ["Drupal"],
+    "require": {
+        "drupal/webform" :"^5.2",
+        "drupal/webform_composite": "^1.0@beta",
+        "drupal/webform_layout_container": "^1.1",
+        "drupal/webform_submission_import": "1.x-dev",
+        "drupal/webform_views": "^5.0@alpha"
+    }
+}
